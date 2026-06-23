@@ -1,0 +1,60 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Call for Papers"
+url = "/cfp"
+weight = 2
+
+[[main]]
+name = "Instructions"
+weight = 3
+
+[[main]]
+parent = "Instructions"
+name = "Submission"
+url = "/instructions/submission"
+weight = 1
+
+[[main]]
+parent = "Instructions"
+name = "Review guidelines"
+url = "/instructions/review_guidelines"
+weight = 2
+
+[[main]]
+name = "Schedule"
+url = "/schedule"
+weight = 4
+
+[[main]]
+name = "Proceedings"
+url = "/proceedings"
+weight = 5
+
+[[main]]
+name = "Organizers"
+url = "/organizers"
+weight = 6
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Call for Papers"
+url = "/cfp"
+weight = 2
+
+[[footer]]
+name = "Schedule"
+url = "/schedule"
+weight = 3
+

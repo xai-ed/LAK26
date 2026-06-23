@@ -1,0 +1,23 @@
+# Hugo build output
+/public/
+
+# Hugo generated resource cache
+/resources/
+
+# Hugo build lock + Tailwind stats (regenerated each build)
+.hugo_build.lock
+hugo_stats.json
+
+# Hugo compiled binary
+/hugoplate
+
+# Node
+/node_modules/
+
+# Env / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

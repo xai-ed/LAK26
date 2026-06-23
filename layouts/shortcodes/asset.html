@@ -1,0 +1,3 @@
+{{- /* Resolve a root-relative asset path against baseURL, subpath-safe.
+       relURL skips the baseURL path for leading-slash inputs, so trim it first. */ -}}
+{{- .Get 0 | strings.TrimPrefix "/" | relURL -}}

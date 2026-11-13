@@ -1,5 +1,6 @@
 ---
 title: Tanja Käser
+role: "Programme Committee"
 email: tanja.kaeser@epfl.ch
 image: "/images/tanja.png"
 description: this is meta description

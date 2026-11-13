@@ -1,5 +1,6 @@
 ---
 title: Luca Longo
+role: "Programme Committee"
 email: luca.longo@ucc.ie
 image: "/images/Luca_longo.png"
 description: this is meta description

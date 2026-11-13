@@ -1,5 +1,6 @@
 ---
 title: Jakub Kuzilek
+role: "Chair"
 email: jakub.kuzilek@fernuni-hagen.de
 image: "/images/jakub.png"
 description: this is meta description

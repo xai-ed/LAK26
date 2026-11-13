@@ -1,5 +1,6 @@
 ---
 title: Juan D. Pinto
+role: "Programme Committee"
 email: juan@jdpinto.com
 image: "/images/juan.png"
 description: this is meta description

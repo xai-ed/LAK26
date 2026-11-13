@@ -16,6 +16,10 @@
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h4>
 
+    {{ with .Params.role }}
+      <span class="bg-primary dark:bg-darkmode-primary dark:text-text-dark mx-auto mb-4 inline-block rounded-full px-3 py-1 text-sm text-white">{{ . }}</span>
+    {{ end }}
+
     <p class="mb-4 flex-1">{{ .Summary | plainify }}</p>
 
     <ul class="social-icons mt-auto">

@@ -1,5 +1,6 @@
 ---
 title: Jeroen Ooge
+role: "Programme Committee"
 email: j.ooge@uu.nl
 image: "/images/jeroen.jpg"
 description: this is meta description

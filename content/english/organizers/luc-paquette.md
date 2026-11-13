@@ -1,5 +1,6 @@
 ---
 title: Luc Paquette
+role: "Programme Committee"
 email: lpaq@illinois.edu
 image: "/images/luc.png"
 description: this is meta description

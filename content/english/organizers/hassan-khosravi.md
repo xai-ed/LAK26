@@ -1,5 +1,6 @@
 ---
 title: Hassan Khosravi
+role: "Programme Committee"
 email: h.khosravi@uq.edu.au
 image: "/images/Hassan_Khosravi.jpeg"
 description: this is meta description

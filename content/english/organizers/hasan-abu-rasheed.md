@@ -1,5 +1,6 @@
 ---
 title: Hasan Abu-Rasheed
+role: "Chair"
 email: rasheed@sd.uni-frankfurt.de
 image: "/images/Hasan_Abu_Rasheed.png"
 description: this is meta description

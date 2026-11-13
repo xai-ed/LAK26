@@ -1,5 +1,6 @@
 ---
 title: Qianhui (Sophie) Liu 
+role: "Programme Committee"
 email: jakub.kuzilek@fernuni-hagen.de
 image: "/images/sophie.png"
 description: this is meta description

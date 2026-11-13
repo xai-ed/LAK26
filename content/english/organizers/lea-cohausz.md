@@ -1,5 +1,6 @@
 ---
 title: Lea Cohausz 
+role: "Programme Committee"
 email: lcohausz@mail.uni-mannheim.de
 image: "/images/lea.png"
 description: this is meta description

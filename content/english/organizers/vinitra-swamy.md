@@ -1,5 +1,6 @@
 ---
 title: Vinitra Swamy
+role: "Programme Committee"
 email: 
 image: "/images/vini.png"
 description: this is meta description

@@ -1,5 +1,6 @@
 ---
 title: Christian Weber
+role: "Programme Committee"
 email: christian.weber@uni-siegen.de
 image: "/images/Christian_Weber.jpg"
 description: this is meta description

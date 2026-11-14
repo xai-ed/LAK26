@@ -1,0 +1,4 @@
+main:
+  - name: "CEUR-WS.org"
+    link: "https://ceur-ws.org/"
+    logo: "images/ceur-ws-logo.png"

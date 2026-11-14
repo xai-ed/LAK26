@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-Proceedings are under preparation. We are providing the papers for start here. (2026-04-28)
+The workshop proceedings are published open access in **CEUR Workshop Proceedings, Vol-4328**: [https://ceur-ws.org/Vol-4328/](https://ceur-ws.org/Vol-4328/)
 
 Daniel Mora Melanchthon and Andrea  Horbach. **"How reliable is that explanation? Intrinsic Evaluation of XAI   methods in Automated Essay Scoring models"** [paper](/papers/XAI-Ed_2026_paper_10.pdf)
 
